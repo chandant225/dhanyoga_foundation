@@ -1,0 +1,19 @@
+body {
+    font-family: "Open Sans", sans-serif;
+}
+img {
+    max-width: 100%;
+}
+p {
+    margin-bottom: 0px;
+}
+
+/* Footer item */
+.footer-item ul {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+body {
+    font-family: "Open Sans", sans-serif;
+}
